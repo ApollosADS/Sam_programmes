@@ -30,7 +30,7 @@ const Home = () => {
   return (
     <>
       <Helmet>
-        <title>Sam programmes</title>
+        <title>Acceuil - Sam programmes</title>
         <meta name="description" content="Depuis 2017, Sam Programmes fournit des services d'électronique automobile à la pointe de la technologie au Bénin, incluant diagnostics, reprogrammation de calculateurs et plus. Contactez-nous pour un service fiable et expert." />
       </Helmet>
 
