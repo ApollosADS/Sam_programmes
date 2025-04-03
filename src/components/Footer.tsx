@@ -47,7 +47,7 @@ const Footer = () => {
                 <span className="text-gray-400">contact@samprogrammes.bj</span>
               </li>
               <li className="flex items-center">
-                <MapPin className="h-20 w-20 mr-7" />
+                <MapPin className="h-5 w-5 mr-2" />
                 <span className="text-gray-400">1ere rue après le commissariat de Vodjé en allant au Carrefour TOYOTA, Cotonou, Bénin</span>
               </li>
             </ul>
